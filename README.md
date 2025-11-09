@@ -15,8 +15,8 @@
 - 👯 Procuro colaborar em projetos de **desenvolvimento web**, **aplicações Full Stack** e **sistemas escaláveis**.  
 - 💬 Pergunte-me sobre **Django, Laravel, React, Spring Boot, API REST e segurança de aplicações**.  
 - 📫 Como me encontrar:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-simoni)  
-  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artursimonijesus@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-simoni-19577a223/)  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artursimonijesus@gmail.com)
 
 ---
 
