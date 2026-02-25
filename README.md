@@ -6,6 +6,10 @@
 
 ---
 
+### 🗓️ Atividade Recente
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=artursimoni&theme=dracula)](https://git.io/streak-stats)
+
 ### 🌟 Sobre Mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no [IFPR - Campus Paranaguá](https://paranagua.ifpr.edu.br/).  
@@ -66,9 +70,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🗓️ Atividade Recente
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=artursimoni&theme=dracula)](https://git.io/streak-stats)
