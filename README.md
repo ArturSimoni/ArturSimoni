@@ -72,7 +72,3 @@
 ### 🗓️ Atividade Recente
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=artursimoni&theme=dracula)](https://git.io/streak-stats)
-
----
-
-<p align="center">Feito com ❤️, código e curiosidade infinita — porque tecnologia também é arte.</p>
