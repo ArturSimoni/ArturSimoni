@@ -52,21 +52,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
 </p>
 
----
-
-### 🔥 Minhas Estatísticas no GitHub
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/artursimoni">
-        <img src="https://github-readme-stats.vercel.app/api?username=artursimoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/artursimoni">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artursimoni&layout=compact&theme=dracula"/>
-      </a>
-    </td>
-  </tr>
-</table>
